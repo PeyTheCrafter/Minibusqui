@@ -20,7 +20,7 @@ public class ParaUIBusqui extends UIbusqui {
 	int tamaño = 10;
 	Tablero tablero = new Tablero(tamaño);
 	Casilla casilla = new Casilla();
-
+//sample text
 	Desvelador desvelador = new Desvelador();
 	Marcador marcador = new Marcador();
 
